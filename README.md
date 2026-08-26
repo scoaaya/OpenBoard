@@ -33,3 +33,7 @@ Em desenvolvimento
 ---
 
 Projeto acadêmico desenvolvido para a disciplina de Front-End.
+
+## Demonstração
+
+Acesse o projeto: [OpenBoard](https://scoaaya.github.io/OpenBoard/)
