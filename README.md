@@ -1,38 +1,33 @@
-# Portal de Vagas
+# OpenBoard
 
-Projeto desenvolvido para a disciplina de Front-End, com o objetivo de criar uma plataforma web para divulgação e busca de oportunidades de emprego.
+Projeto desenvolvido para a disciplina de **Front-End da faculdade**, com o objetivo de aplicar na prática conceitos de **HTML, CSS e JavaScript**.
 
-A aplicação permite que usuários visualizem vagas disponíveis e encontrem oportunidades de acordo com suas necessidades.
+O OpenBoard simula uma plataforma de vagas voltada para startups de tecnologia, permitindo visualizar oportunidades, utilizar filtros e interagir com elementos da página.
 
-## Objetivo
+## Tecnologias
 
-Desenvolver uma interface moderna, responsiva e intuitiva utilizando tecnologias de desenvolvimento Front-End, aplicando os conceitos estudados durante a disciplina.
-
-## Tecnologias utilizadas
-
-- HTML5
-- CSS3
-- JavaScript
+* HTML5
+* CSS3
+* JavaScript
+* Google Fonts (Roboto Slab)
 
 ## Funcionalidades
 
-- Listagem de vagas
-- Visualização das informações de cada vaga
-- Busca e/ou filtros de oportunidades
-- Interface responsiva
-- Navegação intuitiva
+* Listagem de vagas
+* Filtros por tipo e área
+* Formulário de inscrição
+* Botões para publicação de vagas
+* Seção de depoimentos
+* Layout responsivo
+* Interações básicas com JavaScript
 
-## Status do projeto
+## Estrutura
 
-Em desenvolvimento
+* `index.html` — estrutura da página
+* `style.css` — estilos e responsividade
+* `script.js` — interações e funcionalidades JavaScript
 
-## Desenvolvedores
-
-- Katrini Santos
-
----
-
-Projeto acadêmico desenvolvido para a disciplina de Front-End.
+**Projeto acadêmico desenvolvido para a disciplina de Front-End.**
 
 ## Demonstração
 
